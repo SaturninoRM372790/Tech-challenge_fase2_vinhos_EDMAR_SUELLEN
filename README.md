@@ -180,8 +180,8 @@ Os resultados representam associações preditivas e não comprovam relações c
 
 Clone o repositório:
 
-    git clone URL_DO_REPOSITORIO
-    cd Tech_Challenge
+    git clone https://github.com/SaturninoRM372790/Tech-challenge_fase2_vinhos_EDMAR_SUELLEN.git
+    cd Tech-challenge_fase2_vinhos_EDMAR_SUELLEN
 
 Crie um ambiente virtual:
 
@@ -195,7 +195,7 @@ Ative o ambiente virtual no Linux ou macOS:
 
     source .venv/bin/activate
 
-Instale as dependências:
+Instale as dependências do projeto:
 
     pip install -r requirements.txt
 
