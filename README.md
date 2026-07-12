@@ -161,7 +161,7 @@ Os resultados representam associações preditivas e não comprovam relações c
     ├── models/
     │   └── regressao_logistica_vinhos.joblib
     ├── notebooks/
-    │   └── TC_Fase2_Vitivinicola_EDMAR_SUELLEN2.ipynb
+    │   └── TC_Fase2_Vitivinicola_EDMAR_SUELLEN_FIAP.ipynb
     ├── results/
     │   ├── coeficientes_modelo_final.csv
     │   ├── comparacao_validacao_teste.csv
