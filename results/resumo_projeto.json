@@ -1,0 +1,31 @@
+{
+    "modelo_final": "Regressão Logística ajustada",
+    "criterio_classe_positiva": "quality >= 7",
+    "quantidade_registros": 1018,
+    "quantidade_treino": 814,
+    "quantidade_teste": 204,
+    "melhores_hiperparametros": {
+        "modelo__C": 100,
+        "modelo__penalty": "l1"
+    },
+    "metricas_validacao_cruzada": {
+        "acuracia": 0.7972809210028023,
+        "precisao": 0.38565236157356025,
+        "recall": 0.8272727272727274,
+        "f1_score": 0.5249284440746838,
+        "roc_auc": 0.8711361333701759
+    },
+    "metricas_teste": {
+        "acuracia": 0.7892156862745098,
+        "precisao": 0.3620689655172414,
+        "recall": 0.7777777777777778,
+        "f1_score": 0.49411764705882355,
+        "roc_auc": 0.8811466834065704
+    },
+    "matriz_confusao": {
+        "verdadeiros_negativos": 140,
+        "falsos_positivos": 37,
+        "falsos_negativos": 6,
+        "verdadeiros_positivos": 21
+    }
+}

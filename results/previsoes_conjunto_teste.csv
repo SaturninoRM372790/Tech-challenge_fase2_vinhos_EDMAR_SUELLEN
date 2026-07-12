@@ -1,0 +1,205 @@
+﻿fixed acidity,volatile acidity,citric acid,residual sugar,chlorides,free sulfur dioxide,total sulfur dioxide,density,pH,sulphates,alcohol,classe_real,classe_prevista,probabilidade_alta_qualidade,descricao_classe_real,descricao_classe_prevista
+9.3,0.48,0.29,2.1,0.127,6.0,16.0,0.9968,3.22,0.72,11.2,0,0,0.49812422807713785,Baixa ou média qualidade,Baixa ou média qualidade
+7.9,0.31,0.32,1.9,0.066,14.0,36.0,0.99364,3.41,0.56,12.6,0,1,0.8699794397425099,Baixa ou média qualidade,Alta qualidade
+8.7,0.78,0.51,1.7,0.415,12.0,66.0,0.99623,3.0,1.17,9.2,0,0,0.02236298565347166,Baixa ou média qualidade,Baixa ou média qualidade
+10.1,0.45,0.23,1.9,0.0819999999999999,10.0,18.0,0.99774,3.22,0.65,9.3,0,0,0.18890575114919098,Baixa ou média qualidade,Baixa ou média qualidade
+7.2,0.635,0.07,2.6,0.077,16.0,86.0,0.99748,3.51,0.54,9.7,0,0,0.01644128284188268,Baixa ou média qualidade,Baixa ou média qualidade
+8.1,0.67,0.55,1.8,0.1169999999999999,32.0,141.0,0.9968,3.17,0.62,9.4,0,0,0.012361888857147079,Baixa ou média qualidade,Baixa ou média qualidade
+7.9,0.65,0.01,2.5,0.078,17.0,38.0,0.9963,3.34,0.74,11.7,1,0,0.45825112383712957,Alta qualidade,Baixa ou média qualidade
+7.4,0.64,0.17,5.4,0.168,52.0,98.0,0.99736,3.28,0.5,9.5,0,0,0.036791844162613635,Baixa ou média qualidade,Baixa ou média qualidade
+8.2,0.635,0.1,2.1,0.073,25.0,60.0,0.99638,3.29,0.75,10.9,0,0,0.29097293299041954,Baixa ou média qualidade,Baixa ou média qualidade
+7.4,0.47,0.46,2.2,0.114,7.0,20.0,0.99647,3.32,0.63,10.5,0,0,0.20998126349590154,Baixa ou média qualidade,Baixa ou média qualidade
+7.5,0.49,0.19,1.9,0.076,10.0,44.0,0.9957,3.39,0.54,9.7,0,0,0.08486253944830827,Baixa ou média qualidade,Baixa ou média qualidade
+8.6,0.53,0.22,2.0,0.1,7.0,27.0,0.9967,3.2,0.56,10.2,0,0,0.13437034723153515,Baixa ou média qualidade,Baixa ou média qualidade
+12.6,0.39,0.49,2.5,0.08,8.0,20.0,0.9992,3.07,0.82,10.3,0,1,0.7273952144234326,Baixa ou média qualidade,Alta qualidade
+7.3,0.52,0.32,2.1,0.07,51.0,70.0,0.99418,3.34,0.82,12.9,0,1,0.9153022448622371,Baixa ou média qualidade,Alta qualidade
+6.1,0.4,0.16,1.8,0.069,11.0,25.0,0.9955,3.42,0.74,10.1,1,0,0.2577095069868786,Alta qualidade,Baixa ou média qualidade
+9.9,0.74,0.19,5.8,0.111,33.0,76.0,0.99878,3.14,0.55,9.4,0,0,0.0852568911856657,Baixa ou média qualidade,Baixa ou média qualidade
+9.8,0.25,0.49,2.7,0.088,15.0,33.0,0.9982,3.42,0.9,10.0,0,1,0.6628130617739905,Baixa ou média qualidade,Alta qualidade
+8.6,0.38,0.36,3.0,0.081,30.0,119.0,0.997,3.2,0.56,9.4,0,0,0.06877872137913486,Baixa ou média qualidade,Baixa ou média qualidade
+6.7,0.54,0.13,2.0,0.076,15.0,36.0,0.9973,3.61,0.64,9.8,0,0,0.05713460264896574,Baixa ou média qualidade,Baixa ou média qualidade
+8.1,0.73,0.0,2.5,0.081,12.0,24.0,0.99798,3.38,0.46,9.6,0,0,0.02310698001618318,Baixa ou média qualidade,Baixa ou média qualidade
+7.0,0.5,0.14,1.8,0.078,10.0,23.0,0.99636,3.53,0.61,10.4,0,0,0.14320903968825227,Baixa ou média qualidade,Baixa ou média qualidade
+7.6,0.74,0.0,1.9,0.1,6.0,12.0,0.99521,3.36,0.59,11.0,0,0,0.17852771628554784,Baixa ou média qualidade,Baixa ou média qualidade
+6.1,0.21,0.4,1.4,0.066,40.5,165.0,0.9912,3.25,0.59,11.9,0,1,0.5726415584015682,Baixa ou média qualidade,Alta qualidade
+7.2,0.54,0.27,2.6,0.084,12.0,78.0,0.9964,3.39,0.71,11.0,0,0,0.18576864523162173,Baixa ou média qualidade,Baixa ou média qualidade
+11.5,0.45,0.5,3.0,0.078,19.0,47.0,1.0003,3.26,1.11,11.0,0,1,0.836081846038435,Baixa ou média qualidade,Alta qualidade
+7.2,0.62,0.06,2.5,0.078,17.0,84.0,0.99746,3.51,0.53,9.7,0,0,0.016653589507738036,Baixa ou média qualidade,Baixa ou média qualidade
+6.6,0.63,0.0,4.3,0.093,51.0,77.5,0.99558,3.2,0.45,9.5,0,0,0.06998021552004954,Baixa ou média qualidade,Baixa ou média qualidade
+7.6,0.95,0.03,2.0,0.09,7.0,20.0,0.9959,3.2,0.56,9.6,0,0,0.026414629123821365,Baixa ou média qualidade,Baixa ou média qualidade
+7.8,0.645,0.0,5.5,0.086,5.0,18.0,0.9986,3.4,0.55,9.6,0,0,0.08846332717286727,Baixa ou média qualidade,Baixa ou média qualidade
+6.7,0.16,0.64,2.1,0.059,24.0,52.0,0.99494,3.34,0.71,11.2,0,1,0.768386578132226,Baixa ou média qualidade,Alta qualidade
+10.0,0.41,0.45,6.2,0.071,6.0,14.0,0.99702,3.21,0.49,11.8,1,1,0.8981096185523555,Alta qualidade,Alta qualidade
+7.9,0.58,0.23,2.3,0.076,23.0,94.0,0.99686,3.21,0.58,9.5,0,0,0.03513657028580607,Baixa ou média qualidade,Baixa ou média qualidade
+8.0,0.58,0.16,2.0,0.12,3.0,7.0,0.99454,3.22,0.58,11.2,0,0,0.3871269552808294,Baixa ou média qualidade,Baixa ou média qualidade
+8.5,0.32,0.42,2.3,0.075,12.0,19.0,0.99434,3.14,0.71,11.8,1,1,0.9088884873468313,Alta qualidade,Alta qualidade
+6.7,0.75,0.01,2.4,0.078,17.0,32.0,0.9955,3.55,0.61,12.8,0,0,0.42578794203368603,Baixa ou média qualidade,Baixa ou média qualidade
+8.3,0.58,0.13,2.9,0.096,14.0,63.0,0.9984,3.17,0.62,9.1,0,0,0.027984221206790096,Baixa ou média qualidade,Baixa ou média qualidade
+8.8,0.42,0.21,2.5,0.092,33.0,88.0,0.99823,3.19,0.52,9.2,0,0,0.03710458193049971,Baixa ou média qualidade,Baixa ou média qualidade
+6.3,0.39,0.16,1.4,0.08,11.0,23.0,0.9955,3.34,0.56,9.3,0,0,0.07369597705976347,Baixa ou média qualidade,Baixa ou média qualidade
+7.5,0.58,0.56,3.1,0.153,5.0,14.0,0.99476,3.21,1.03,11.6,0,1,0.8570149977857872,Baixa ou média qualidade,Alta qualidade
+7.3,0.59,0.26,7.2,0.07,35.0,121.0,0.9981,3.37,0.49,9.4,0,0,0.061480682393874296,Baixa ou média qualidade,Baixa ou média qualidade
+6.5,0.63,0.33,1.8,0.059,16.0,28.0,0.99531,3.36,0.64,10.1,0,0,0.15342040709841412,Baixa ou média qualidade,Baixa ou média qualidade
+9.2,0.92,0.24,2.6,0.087,12.0,93.0,0.9998,3.48,0.54,9.8,0,0,0.005231351607107484,Baixa ou média qualidade,Baixa ou média qualidade
+6.4,0.57,0.02,1.8,0.067,4.0,11.0,0.997,3.46,0.68,9.5,0,0,0.058461399906235084,Baixa ou média qualidade,Baixa ou média qualidade
+7.1,0.75,0.01,2.2,0.059,11.0,18.0,0.99242,3.39,0.4,12.8,0,1,0.612203051114492,Baixa ou média qualidade,Alta qualidade
+6.9,0.58,0.2,1.75,0.0579999999999999,8.0,22.0,0.99322,3.38,0.49,11.7,0,0,0.4773860060427761,Baixa ou média qualidade,Baixa ou média qualidade
+8.2,0.64,0.27,2.0,0.095,5.0,77.0,0.99747,3.13,0.62,9.1,0,0,0.01641193593614302,Baixa ou média qualidade,Baixa ou média qualidade
+9.0,0.45,0.49,2.6,0.084,21.0,75.0,0.9987,3.35,0.57,9.7,0,0,0.06534032654632654,Baixa ou média qualidade,Baixa ou média qualidade
+7.4,0.36,0.34,1.8,0.075,18.0,38.0,0.9933,3.38,0.88,13.6,1,1,0.977491562972372,Alta qualidade,Alta qualidade
+7.4,0.66,0.0,1.8,0.075,13.0,40.0,0.9978,3.51,0.56,9.4,0,0,0.018166763113001333,Baixa ou média qualidade,Baixa ou média qualidade
+8.3,0.78,0.1,2.6,0.081,45.0,87.0,0.9983,3.48,0.53,10.0,0,0,0.024667198915181248,Baixa ou média qualidade,Baixa ou média qualidade
+10.3,0.27,0.24,2.1,0.072,15.0,33.0,0.9956,3.22,0.66,12.8,0,1,0.9451291487930616,Baixa ou média qualidade,Alta qualidade
+10.1,0.27,0.54,2.3,0.065,7.0,26.0,0.99531,3.17,0.53,12.5,0,1,0.9162646525199014,Baixa ou média qualidade,Alta qualidade
+10.4,0.33,0.63,2.8,0.084,5.0,22.0,0.9998,3.26,0.74,11.2,1,1,0.6159032488545327,Alta qualidade,Alta qualidade
+6.6,0.725,0.09,5.5,0.1169999999999999,9.0,17.0,0.99655,3.35,0.49,10.8,0,0,0.165154631546759,Baixa ou média qualidade,Baixa ou média qualidade
+8.9,0.5,0.21,2.2,0.088,21.0,39.0,0.99692,3.33,0.83,11.1,0,1,0.5789514459216879,Baixa ou média qualidade,Alta qualidade
+7.0,0.45,0.34,2.7,0.0819999999999999,16.0,72.0,0.998,3.55,0.6,9.5,0,0,0.034918307519640646,Baixa ou média qualidade,Baixa ou média qualidade
+9.1,0.3,0.41,2.0,0.068,10.0,24.0,0.99523,3.27,0.85,11.7,1,1,0.924557639923383,Alta qualidade,Alta qualidade
+10.2,0.49,0.63,2.9,0.072,10.0,26.0,0.9968,3.16,0.78,12.5,1,1,0.9241840276955388,Alta qualidade,Alta qualidade
+6.6,0.64,0.31,6.1,0.083,7.0,49.0,0.99718,3.35,0.68,10.3,0,0,0.24290825098497024,Baixa ou média qualidade,Baixa ou média qualidade
+7.2,0.62,0.06,2.7,0.077,15.0,85.0,0.99746,3.51,0.54,9.5,0,0,0.015332522625050736,Baixa ou média qualidade,Baixa ou média qualidade
+7.3,0.4,0.3,1.7,0.08,33.0,79.0,0.9969,3.41,0.65,9.5,0,0,0.07342991121303098,Baixa ou média qualidade,Baixa ou média qualidade
+5.9,0.46,0.0,1.9,0.077,25.0,44.0,0.99385,3.5,0.53,11.2,0,0,0.29770956666155524,Baixa ou média qualidade,Baixa ou média qualidade
+6.4,0.795,0.0,2.2,0.065,28.0,52.0,0.99378,3.49,0.52,11.6,0,0,0.2213870065776588,Baixa ou média qualidade,Baixa ou média qualidade
+7.2,0.835,0.0,2.0,0.166,4.0,11.0,0.99608,3.39,0.52,10.0,0,0,0.01875976885258156,Baixa ou média qualidade,Baixa ou média qualidade
+6.8,0.51,0.01,2.1,0.074,9.0,25.0,0.9958,3.33,0.56,9.5,0,0,0.07572391407860005,Baixa ou média qualidade,Baixa ou média qualidade
+8.5,0.4,0.4,6.3,0.05,3.0,10.0,0.99566,3.28,0.56,12.0,0,1,0.9430227942577126,Baixa ou média qualidade,Alta qualidade
+7.9,0.37,0.23,1.8,0.077,23.0,49.0,0.9963,3.28,0.67,9.3,0,0,0.15859664768300819,Baixa ou média qualidade,Baixa ou média qualidade
+7.9,0.545,0.06,4.0,0.087,27.0,61.0,0.9965,3.36,0.67,10.7,0,0,0.3473962302424883,Baixa ou média qualidade,Baixa ou média qualidade
+8.3,0.54,0.28,1.9,0.077,11.0,40.0,0.9978,3.39,0.61,10.0,0,0,0.082573620466529,Baixa ou média qualidade,Baixa ou média qualidade
+7.9,0.24,0.4,1.6,0.0559999999999999,11.0,25.0,0.9967,3.32,0.87,8.7,0,0,0.33023289891662816,Baixa ou média qualidade,Baixa ou média qualidade
+9.9,0.35,0.41,2.3,0.083,11.0,61.0,0.9982,3.21,0.5,9.5,0,0,0.08790228564174399,Baixa ou média qualidade,Baixa ou média qualidade
+10.0,0.56,0.24,2.2,0.079,19.0,58.0,0.9991,3.18,0.56,10.1,0,0,0.07782581831046252,Baixa ou média qualidade,Baixa ou média qualidade
+9.6,0.32,0.47,1.4,0.0559999999999999,9.0,24.0,0.99695,3.22,0.82,10.3,1,1,0.6469266110021129,Alta qualidade,Alta qualidade
+10.1,0.65,0.37,5.1,0.11,11.0,65.0,1.0026,3.32,0.64,10.4,0,0,0.052948550694864475,Baixa ou média qualidade,Baixa ou média qualidade
+8.6,0.8,0.11,2.3,0.084,12.0,31.0,0.9979,3.4,0.48,9.9,0,0,0.026882239340618733,Baixa ou média qualidade,Baixa ou média qualidade
+9.6,0.68,0.24,2.2,0.087,5.0,28.0,0.9988,3.14,0.6,10.2,0,0,0.07870308733824197,Baixa ou média qualidade,Baixa ou média qualidade
+6.9,0.49,0.1,2.3,0.074,12.0,30.0,0.9959,3.42,0.58,10.2,0,0,0.15120347155481048,Baixa ou média qualidade,Baixa ou média qualidade
+11.5,0.42,0.48,2.6,0.077,8.0,20.0,0.99852,3.09,0.53,11.0,0,1,0.5319316089600606,Baixa ou média qualidade,Alta qualidade
+12.5,0.46,0.49,4.5,0.07,26.0,49.0,0.9981,3.05,0.57,9.6,0,1,0.586555079821709,Baixa ou média qualidade,Alta qualidade
+7.0,0.745,0.12,1.8,0.114,15.0,64.0,0.99588,3.22,0.59,9.5,0,0,0.018401206239800048,Baixa ou média qualidade,Baixa ou média qualidade
+10.9,0.53,0.49,4.6,0.118,10.0,17.0,1.0002,3.07,0.56,11.7,0,1,0.5324614265042175,Baixa ou média qualidade,Alta qualidade
+13.3,0.29,0.75,2.8,0.084,23.0,43.0,0.9986,3.04,0.68,11.4,1,1,0.9040358469730735,Alta qualidade,Alta qualidade
+7.0,0.685,0.0,1.9,0.099,9.0,22.0,0.99606,3.34,0.6,9.7,0,0,0.04739389866673484,Baixa ou média qualidade,Baixa ou média qualidade
+6.6,0.56,0.14,2.4,0.064,13.0,29.0,0.99397,3.42,0.62,11.7,1,1,0.5624104562836897,Alta qualidade,Alta qualidade
+15.9,0.36,0.65,7.5,0.096,22.0,71.0,0.9976,2.98,0.84,14.9,0,1,0.9996995820777556,Baixa ou média qualidade,Alta qualidade
+7.5,0.38,0.48,2.6,0.073,22.0,84.0,0.9972,3.32,0.7,9.6,0,0,0.1208413794076628,Baixa ou média qualidade,Baixa ou média qualidade
+8.9,0.4,0.32,5.6,0.087,10.0,47.0,0.9991,3.38,0.77,10.5,1,1,0.5269836981306524,Alta qualidade,Alta qualidade
+10.6,0.28,0.39,15.5,0.069,6.0,23.0,1.0026,3.12,0.66,9.2,0,1,0.94728161439374,Baixa ou média qualidade,Alta qualidade
+7.9,1.04,0.05,2.2,0.084,13.0,29.0,0.9959,3.22,0.55,9.9,0,0,0.030142515239159135,Baixa ou média qualidade,Baixa ou média qualidade
+9.0,0.46,0.31,2.8,0.093,19.0,98.0,0.99815,3.32,0.63,9.5,0,0,0.05178861277559599,Baixa ou média qualidade,Baixa ou média qualidade
+10.2,0.645,0.36,1.8,0.053,5.0,14.0,0.9982,3.17,0.42,10.0,0,0,0.08599501656697933,Baixa ou média qualidade,Baixa ou média qualidade
+9.3,0.61,0.26,3.4,0.09,25.0,87.0,0.99975,3.24,0.62,9.7,0,0,0.038933262642844885,Baixa ou média qualidade,Baixa ou média qualidade
+11.5,0.31,0.51,2.2,0.079,14.0,28.0,0.9982,3.03,0.93,9.8,0,1,0.7645157146143186,Baixa ou média qualidade,Alta qualidade
+8.3,0.61,0.3,2.1,0.084,11.0,50.0,0.9972,3.4,0.61,10.2,0,0,0.08550082112544156,Baixa ou média qualidade,Baixa ou média qualidade
+7.7,0.56,0.08,2.5,0.114,14.0,46.0,0.9971,3.24,0.66,9.6,0,0,0.06268520720347343,Baixa ou média qualidade,Baixa ou média qualidade
+5.2,0.32,0.25,1.8,0.103,13.0,50.0,0.9957,3.38,0.55,9.2,0,0,0.03382796793469427,Baixa ou média qualidade,Baixa ou média qualidade
+7.5,0.4,0.18,1.6,0.079,24.0,58.0,0.9965,3.34,0.58,9.4,0,0,0.07070812273750435,Baixa ou média qualidade,Baixa ou média qualidade
+7.6,0.31,0.34,2.5,0.0819999999999999,26.0,35.0,0.99356,3.22,0.59,12.5,1,1,0.9098945514436875,Alta qualidade,Alta qualidade
+10.7,0.9,0.34,6.6,0.1119999999999999,23.0,99.0,1.00289,3.22,0.68,9.3,0,0,0.018435865812368092,Baixa ou média qualidade,Baixa ou média qualidade
+7.2,0.37,0.32,2.0,0.062,15.0,28.0,0.9947,3.23,0.73,11.3,1,1,0.7315947394015363,Alta qualidade,Alta qualidade
+7.4,0.62,0.05,1.9,0.068,24.0,42.0,0.9961,3.42,0.57,11.5,0,0,0.24246272729378246,Baixa ou média qualidade,Baixa ou média qualidade
+9.1,0.66,0.15,3.2,0.0969999999999999,9.0,59.0,0.99976,3.28,0.54,9.6,0,0,0.01938471347343758,Baixa ou média qualidade,Baixa ou média qualidade
+6.8,0.81,0.05,2.0,0.07,6.0,14.0,0.99562,3.51,0.66,10.8,0,0,0.1378224702916401,Baixa ou média qualidade,Baixa ou média qualidade
+7.2,0.57,0.05,2.3,0.081,16.0,36.0,0.99564,3.38,0.6,10.3,0,0,0.15583565465205151,Baixa ou média qualidade,Baixa ou média qualidade
+7.1,0.61,0.02,2.5,0.081,17.0,87.0,0.99745,3.48,0.6,9.7,0,0,0.020243815756104518,Baixa ou média qualidade,Baixa ou média qualidade
+7.4,0.36,0.29,2.6,0.087,26.0,72.0,0.99645,3.39,0.68,11.0,0,0,0.35321407970227026,Baixa ou média qualidade,Baixa ou média qualidade
+7.4,0.52,0.13,2.4,0.078,34.0,61.0,0.99528,3.43,0.59,10.8,0,0,0.28466438153482815,Baixa ou média qualidade,Baixa ou média qualidade
+8.0,0.725,0.24,2.8,0.083,10.0,62.0,0.99685,3.35,0.56,10.0,0,0,0.046402038136201626,Baixa ou média qualidade,Baixa ou média qualidade
+5.1,0.47,0.02,1.3,0.034,18.0,44.0,0.9921,3.9,0.62,12.8,0,1,0.7321115568523788,Baixa ou média qualidade,Alta qualidade
+9.5,0.78,0.22,1.9,0.077,6.0,32.0,0.9988,3.26,0.56,10.6,0,0,0.05744817717427023,Baixa ou média qualidade,Baixa ou média qualidade
+10.4,0.44,0.73,6.55,0.074,38.0,76.0,0.999,3.17,0.85,12.0,1,1,0.9524231341657644,Alta qualidade,Alta qualidade
+7.6,0.46,0.11,2.6,0.079,12.0,49.0,0.9968,3.21,0.57,10.0,0,0,0.10875480872300568,Baixa ou média qualidade,Baixa ou média qualidade
+7.5,0.64,0.0,2.4,0.077,18.0,29.0,0.9965,3.32,0.6,10.0,0,0,0.10460694596964146,Baixa ou média qualidade,Baixa ou média qualidade
+10.5,0.24,0.42,1.8,0.077,6.0,22.0,0.9976,3.21,1.05,10.8,1,1,0.9025024231924867,Alta qualidade,Alta qualidade
+8.1,0.82,0.0,4.1,0.095,5.0,14.0,0.99854,3.36,0.53,9.6,0,0,0.03265845577563475,Baixa ou média qualidade,Baixa ou média qualidade
+8.0,0.81,0.25,3.4,0.076,34.0,85.0,0.99668,3.19,0.42,9.2,0,0,0.018477443723498677,Baixa ou média qualidade,Baixa ou média qualidade
+6.2,0.51,0.14,1.9,0.0559999999999999,15.0,34.0,0.99396,3.48,0.57,11.5,0,0,0.4234832990032959,Baixa ou média qualidade,Baixa ou média qualidade
+8.3,0.3,0.49,3.8,0.09,11.0,24.0,0.99498,3.27,0.64,12.1,1,1,0.9128531726036088,Alta qualidade,Alta qualidade
+8.5,0.18,0.51,1.75,0.071,45.0,88.0,0.99524,3.33,0.76,11.8,1,1,0.8678499069157545,Alta qualidade,Alta qualidade
+6.4,0.38,0.14,2.2,0.038,15.0,25.0,0.99514,3.44,0.65,11.1,0,1,0.5407618913066508,Baixa ou média qualidade,Alta qualidade
+10.1,0.43,0.4,2.6,0.092,13.0,52.0,0.99834,3.22,0.64,10.0,1,0,0.20526231397975372,Alta qualidade,Baixa ou média qualidade
+7.9,0.69,0.21,2.1,0.08,33.0,141.0,0.9962,3.25,0.51,9.9,0,0,0.016077648273966648,Baixa ou média qualidade,Baixa ou média qualidade
+9.1,0.775,0.22,2.2,0.079,12.0,48.0,0.9976,3.18,0.51,9.6,0,0,0.03019203091666163,Baixa ou média qualidade,Baixa ou média qualidade
+5.0,1.02,0.04,1.4,0.045,41.0,85.0,0.9938,3.75,0.48,10.5,0,0,0.017205821725221112,Baixa ou média qualidade,Baixa ou média qualidade
+13.0,0.47,0.49,4.3,0.085,6.0,47.0,1.0021,3.3,0.68,12.7,0,1,0.7556726342508133,Baixa ou média qualidade,Alta qualidade
+7.2,0.49,0.24,2.2,0.07,5.0,36.0,0.996,3.33,0.48,9.4,0,0,0.054933699727445454,Baixa ou média qualidade,Baixa ou média qualidade
+7.0,0.975,0.04,2.0,0.087,12.0,67.0,0.99565,3.35,0.6,9.4,0,0,0.010697931790049504,Baixa ou média qualidade,Baixa ou média qualidade
+7.6,0.4,0.29,1.9,0.078,29.0,66.0,0.9971,3.45,0.59,9.5,0,0,0.07374111007083346,Baixa ou média qualidade,Baixa ou média qualidade
+11.4,0.625,0.66,6.2,0.088,6.0,24.0,0.9988,3.11,0.99,13.3,0,1,0.988337696549529,Baixa ou média qualidade,Alta qualidade
+13.8,0.49,0.67,3.0,0.093,6.0,15.0,0.9986,3.02,0.93,12.0,0,1,0.9685076593204496,Baixa ou média qualidade,Alta qualidade
+6.7,0.75,0.12,2.0,0.086,12.0,80.0,0.9958,3.38,0.52,10.1,0,0,0.018584808370333054,Baixa ou média qualidade,Baixa ou média qualidade
+7.2,0.53,0.13,2.0,0.0579999999999999,18.0,22.0,0.99573,3.21,0.68,9.9,0,0,0.2454302103130496,Baixa ou média qualidade,Baixa ou média qualidade
+5.9,0.395,0.13,2.4,0.0559999999999999,14.0,28.0,0.99362,3.62,0.67,12.4,0,1,0.8077766674349359,Baixa ou média qualidade,Alta qualidade
+7.0,0.65,0.02,2.1,0.066,8.0,25.0,0.9972,3.47,0.67,9.5,0,0,0.04963769335872042,Baixa ou média qualidade,Baixa ou média qualidade
+9.6,0.56,0.31,2.8,0.089,15.0,46.0,0.9979,3.11,0.92,10.0,0,0,0.4099829102245901,Baixa ou média qualidade,Baixa ou média qualidade
+5.8,0.61,0.11,1.8,0.066,18.0,28.0,0.99483,3.55,0.66,10.9,0,0,0.22898491922955028,Baixa ou média qualidade,Baixa ou média qualidade
+7.2,0.725,0.05,4.65,0.086,4.0,11.0,0.9962,3.41,0.39,10.9,0,0,0.15222177901996575,Baixa ou média qualidade,Baixa ou média qualidade
+12.8,0.84,0.63,2.4,0.088,13.0,35.0,0.9997,3.1,0.6,10.4,0,0,0.17096988134709698,Baixa ou média qualidade,Baixa ou média qualidade
+6.6,0.58,0.02,2.4,0.069,19.0,40.0,0.99387,3.38,0.66,12.6,0,1,0.7185565266213161,Baixa ou média qualidade,Alta qualidade
+7.7,0.66,0.04,1.6,0.039,4.0,9.0,0.9962,3.4,0.47,9.4,0,0,0.04837182075440065,Baixa ou média qualidade,Baixa ou média qualidade
+7.1,0.43,0.42,5.5,0.071,28.0,128.0,0.9973,3.42,0.71,10.5,0,0,0.2522427534276115,Baixa ou média qualidade,Baixa ou média qualidade
+7.6,0.55,0.21,2.2,0.071,7.0,28.0,0.9964,3.28,0.55,9.7,0,0,0.08778756038272477,Baixa ou média qualidade,Baixa ou média qualidade
+8.6,0.645,0.25,2.0,0.083,8.0,28.0,0.99815,3.28,0.6,10.0,0,0,0.06590205452008938,Baixa ou média qualidade,Baixa ou média qualidade
+12.9,0.5,0.55,2.8,0.072,7.0,24.0,1.00012,3.09,0.68,10.9,0,1,0.5980259994308886,Baixa ou média qualidade,Alta qualidade
+6.0,0.5,0.0,1.4,0.057,15.0,26.0,0.99448,3.36,0.45,9.5,0,0,0.059743727737049855,Baixa ou média qualidade,Baixa ou média qualidade
+6.6,0.695,0.0,2.1,0.075,12.0,56.0,0.9968,3.49,0.67,9.2,0,0,0.02048413950496587,Baixa ou média qualidade,Baixa ou média qualidade
+7.2,0.25,0.37,2.5,0.063,11.0,41.0,0.99439,3.52,0.8,12.4,1,1,0.9231077299585458,Alta qualidade,Alta qualidade
+8.3,0.53,0.0,1.4,0.07,6.0,14.0,0.99593,3.25,0.64,10.0,0,0,0.19467519235198222,Baixa ou média qualidade,Baixa ou média qualidade
+7.7,0.26,0.26,2.0,0.052,19.0,77.0,0.9951,3.15,0.79,10.9,0,1,0.6507952347995942,Baixa ou média qualidade,Alta qualidade
+7.2,0.45,0.15,2.0,0.078,10.0,28.0,0.99609,3.29,0.51,9.9,0,0,0.10102870710293216,Baixa ou média qualidade,Baixa ou média qualidade
+7.5,0.4,0.12,3.0,0.092,29.0,53.0,0.9967,3.37,0.7,10.3,0,0,0.3017648498816125,Baixa ou média qualidade,Baixa ou média qualidade
+5.6,0.605,0.05,2.4,0.073,19.0,25.0,0.99258,3.56,0.55,12.9,0,1,0.7226543582911218,Baixa ou média qualidade,Alta qualidade
+6.8,0.62,0.08,1.9,0.068,28.0,38.0,0.99651,3.42,0.82,9.5,0,0,0.13191056441189303,Baixa ou média qualidade,Baixa ou média qualidade
+7.8,0.88,0.0,2.6,0.098,25.0,67.0,0.9968,3.2,0.68,9.8,0,0,0.03581925301904228,Baixa ou média qualidade,Baixa ou média qualidade
+9.1,0.52,0.33,1.3,0.07,9.0,30.0,0.9978,3.24,0.6,9.3,0,0,0.06850668513490803,Baixa ou média qualidade,Baixa ou média qualidade
+6.7,1.04,0.08,2.3,0.067,19.0,32.0,0.99648,3.52,0.57,11.0,0,0,0.04602776146925021,Baixa ou média qualidade,Baixa ou média qualidade
+9.0,0.48,0.32,2.8,0.084,21.0,122.0,0.9984,3.32,0.62,9.4,0,0,0.02983045187172627,Baixa ou média qualidade,Baixa ou média qualidade
+8.2,0.885,0.2,1.4,0.086,7.0,31.0,0.9946,3.11,0.46,10.0,0,0,0.04599045213966793,Baixa ou média qualidade,Baixa ou média qualidade
+6.4,0.67,0.08,2.1,0.045,19.0,48.0,0.9949,3.49,0.49,11.4,0,0,0.1759603185574185,Baixa ou média qualidade,Baixa ou média qualidade
+7.4,0.6,0.26,7.3,0.07,36.0,121.0,0.9982,3.37,0.49,9.4,0,0,0.06315180066486381,Baixa ou média qualidade,Baixa ou média qualidade
+6.9,0.84,0.21,4.1,0.074,16.0,65.0,0.99842,3.53,0.72,9.25,0,0,0.023152400031746283,Baixa ou média qualidade,Baixa ou média qualidade
+5.6,0.85,0.05,1.4,0.045,12.0,88.0,0.9924,3.56,0.82,12.9,1,0,0.49845959480194546,Alta qualidade,Baixa ou média qualidade
+7.8,0.59,0.18,2.3,0.076,17.0,54.0,0.9975,3.43,0.59,10.0,0,0,0.06096825811879761,Baixa ou média qualidade,Baixa ou média qualidade
+6.9,0.74,0.03,2.3,0.054,7.0,16.0,0.99508,3.45,0.63,11.5,0,0,0.33504796039284246,Baixa ou média qualidade,Baixa ou média qualidade
+7.0,0.54,0.0,2.1,0.079,39.0,55.0,0.9956,3.39,0.84,11.4,0,1,0.5666054136130224,Baixa ou média qualidade,Alta qualidade
+6.9,0.41,0.31,2.0,0.079,21.0,51.0,0.99668,3.47,0.55,9.5,0,0,0.06311116382318586,Baixa ou média qualidade,Baixa ou média qualidade
+8.0,0.38,0.44,1.9,0.098,6.0,15.0,0.9956,3.3,0.64,11.4,0,1,0.588107503881134,Baixa ou média qualidade,Alta qualidade
+9.3,0.27,0.41,2.0,0.091,6.0,16.0,0.998,3.28,0.7,9.7,0,0,0.31419524362024653,Baixa ou média qualidade,Baixa ou média qualidade
+7.2,0.57,0.06,1.6,0.076,9.0,27.0,0.9972,3.36,0.7,9.6,0,0,0.06490023953268594,Baixa ou média qualidade,Baixa ou média qualidade
+6.7,0.46,0.24,1.7,0.077,18.0,34.0,0.9948,3.39,0.6,10.6,0,0,0.2706954436249826,Baixa ou média qualidade,Baixa ou média qualidade
+8.6,0.47,0.27,2.3,0.055,14.0,28.0,0.99516,3.18,0.8,11.2,0,1,0.8028321096477377,Baixa ou média qualidade,Alta qualidade
+6.9,0.49,0.19,1.7,0.079,13.0,26.0,0.99547,3.38,0.64,9.8,0,0,0.14846816928612147,Baixa ou média qualidade,Baixa ou média qualidade
+6.9,0.4,0.14,2.4,0.085,21.0,40.0,0.9968,3.43,0.63,9.7,0,0,0.11845600009236404,Baixa ou média qualidade,Baixa ou média qualidade
+8.8,0.64,0.17,2.9,0.084,25.0,130.0,0.99818,3.23,0.54,9.6,0,0,0.014467427257395476,Baixa ou média qualidade,Baixa ou média qualidade
+7.8,0.32,0.44,2.7,0.104,8.0,17.0,0.99732,3.33,0.78,11.0,1,1,0.5798013581561418,Alta qualidade,Alta qualidade
+11.6,0.53,0.66,3.65,0.121,6.0,14.0,0.9978,3.05,0.74,11.5,1,1,0.8350393085522945,Alta qualidade,Alta qualidade
+7.3,0.55,0.03,1.6,0.072,17.0,42.0,0.9956,3.37,0.48,9.0,0,0,0.032356286220261196,Baixa ou média qualidade,Baixa ou média qualidade
+7.8,0.53,0.01,1.6,0.077,3.0,19.0,0.995,3.16,0.46,9.8,0,0,0.09594379936319444,Baixa ou média qualidade,Baixa ou média qualidade
+9.9,0.5,0.5,13.8,0.205,48.0,82.0,1.00242,3.16,0.75,8.8,0,1,0.5325106674576843,Baixa ou média qualidade,Alta qualidade
+8.9,0.745,0.18,2.5,0.077,15.0,48.0,0.99739,3.2,0.47,9.7,0,0,0.036081609289878705,Baixa ou média qualidade,Baixa ou média qualidade
+7.1,0.685,0.35,2.0,0.088,9.0,92.0,0.9963,3.28,0.62,9.4,0,0,0.01689487188470383,Baixa ou média qualidade,Baixa ou média qualidade
+8.2,0.34,0.38,2.5,0.08,12.0,57.0,0.9978,3.3,0.47,9.0,0,0,0.040543628863686024,Baixa ou média qualidade,Baixa ou média qualidade
+11.3,0.36,0.66,2.4,0.123,3.0,8.0,0.99642,3.2,0.53,11.9,0,1,0.8163084683797694,Baixa ou média qualidade,Alta qualidade
+7.7,0.6,0.06,2.0,0.079,19.0,41.0,0.99697,3.39,0.62,10.1,0,0,0.08900007683578186,Baixa ou média qualidade,Baixa ou média qualidade
+8.0,0.52,0.03,1.7,0.07,10.0,35.0,0.99575,3.34,0.57,10.0,0,0,0.13095685107843094,Baixa ou média qualidade,Baixa ou média qualidade
+7.7,0.6,0.0,2.6,0.055,7.0,13.0,0.99639,3.38,0.56,10.8,0,0,0.24157385267641368,Baixa ou média qualidade,Baixa ou média qualidade
+5.2,0.48,0.04,1.6,0.054,19.0,106.0,0.9927,3.54,0.62,12.2,1,0,0.3368497164102995,Alta qualidade,Baixa ou média qualidade
+7.8,0.735,0.08,2.4,0.092,10.0,41.0,0.9974,3.24,0.71,9.8,0,0,0.05648641389375689,Baixa ou média qualidade,Baixa ou média qualidade
+7.2,0.53,0.14,2.1,0.064,15.0,29.0,0.99323,3.35,0.61,12.1,0,1,0.747233437259386,Baixa ou média qualidade,Alta qualidade
+4.6,0.52,0.15,2.1,0.054,8.0,65.0,0.9934,3.9,0.56,13.1,0,0,0.4454108429822124,Baixa ou média qualidade,Baixa ou média qualidade
+6.9,0.55,0.15,2.2,0.076,19.0,40.0,0.9961,3.41,0.59,10.1,0,0,0.1109412901930303,Baixa ou média qualidade,Baixa ou média qualidade
+7.6,0.43,0.31,2.1,0.069,13.0,74.0,0.9958,3.26,0.54,9.9,0,0,0.09609491074435421,Baixa ou média qualidade,Baixa ou média qualidade
+8.0,0.42,0.17,2.0,0.073,6.0,18.0,0.9972,3.29,0.61,9.2,0,0,0.0980725884767543,Baixa ou média qualidade,Baixa ou média qualidade
+9.2,0.31,0.36,2.2,0.079,11.0,31.0,0.99615,3.33,0.86,12.0,1,1,0.9055774214848337,Alta qualidade,Alta qualidade
+8.9,0.38,0.4,2.2,0.068,12.0,28.0,0.99486,3.27,0.75,12.6,1,1,0.9348984623211241,Alta qualidade,Alta qualidade
+7.4,0.49,0.19,3.0,0.077,16.0,37.0,0.9966,3.37,0.51,10.5,0,0,0.17039942942521252,Baixa ou média qualidade,Baixa ou média qualidade
+7.0,0.56,0.17,1.7,0.065,15.0,24.0,0.99514,3.44,0.68,10.55,1,0,0.294880493948838,Alta qualidade,Baixa ou média qualidade
+7.5,0.41,0.15,3.7,0.104,29.0,94.0,0.99786,3.14,0.58,9.1,0,0,0.03843327419464243,Baixa ou média qualidade,Baixa ou média qualidade
+6.4,0.47,0.4,2.4,0.071,8.0,19.0,0.9963,3.56,0.73,10.6,0,0,0.31764678060653223,Baixa ou média qualidade,Baixa ou média qualidade
+6.4,0.39,0.33,3.3,0.046,12.0,53.0,0.99294,3.36,0.62,12.2,0,1,0.8486493903621766,Baixa ou média qualidade,Alta qualidade
+8.8,0.61,0.19,4.0,0.094,30.0,69.0,0.99787,3.22,0.5,10.0,0,0,0.08963806062410003,Baixa ou média qualidade,Baixa ou média qualidade
+10.2,0.42,0.57,3.4,0.07,4.0,10.0,0.9971,3.04,0.63,9.6,0,1,0.5164947148462296,Baixa ou média qualidade,Alta qualidade
+7.5,0.59,0.22,1.8,0.0819999999999999,43.0,60.0,0.99499,3.1,0.42,9.2,0,0,0.05348612654365846,Baixa ou média qualidade,Baixa ou média qualidade
+10.0,0.32,0.59,2.2,0.077,3.0,15.0,0.9994,3.2,0.78,9.6,0,0,0.33443702135768083,Baixa ou média qualidade,Baixa ou média qualidade

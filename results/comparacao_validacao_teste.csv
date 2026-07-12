@@ -1,0 +1,6 @@
+﻿metrica,validacao_cruzada,conjunto_teste,diferenca
+Acurácia,79.73,78.92,-0.81
+Precisão,38.57,36.21,-2.36
+Recall,82.73,77.78,-4.95
+F1-score,52.49,49.41,-3.08
+ROC-AUC,87.11,88.11,1.0

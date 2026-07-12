@@ -1,0 +1,12 @@
+﻿variavel_original,coeficiente,variavel,razao_chances,coeficiente_absoluto,direcao
+alcohol,0.8477,Teor alcoólico,2.3342,0.8477,Positiva
+density,-0.7671,Densidade,0.4644,0.7671,Negativa
+sulphates,0.7347,Sulfatos,2.0848,0.7347,Positiva
+fixed acidity,0.6649,Acidez fixa,1.9444,0.6649,Positiva
+total sulfur dioxide,-0.5852,Dióxido de enxofre total,0.557,0.5852,Negativa
+volatile acidity,-0.5762,Acidez volátil,0.5621,0.5762,Negativa
+residual sugar,0.4864,Açúcar residual,1.6264,0.4864,Positiva
+chlorides,-0.4404,Cloretos,0.6438,0.4404,Negativa
+free sulfur dioxide,0.2112,Dióxido de enxofre livre,1.2352,0.2112,Positiva
+citric acid,0.1164,Ácido cítrico,1.1234,0.1164,Positiva
+pH,-0.0492,pH,0.952,0.0492,Negativa
