@@ -155,7 +155,7 @@ Os resultados representam associações preditivas e não comprovam relações c
 
 ## 10. Estrutura do repositório
 
-    Tech_Challenge/
+    Tech-challenge_fase2_vinhos_EDMAR_SUELLEN/
     ├── data/
     │   └── WineQT.csv
     ├── models/
