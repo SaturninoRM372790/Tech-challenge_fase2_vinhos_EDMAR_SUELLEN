@@ -8,6 +8,12 @@
 - Edmar Saturnino César — RM372790
 - Francisca Suellen Soares Barros — RM372732
 
+## 🎥 Apresentação do Projeto
+
+O vídeo de apresentação pode ser acessado no link abaixo:
+
+**YouTube:** [https://youtu.be/B_33tTYO07c] 
+
 ## 1. Contexto
 
 Este projeto desenvolve um modelo de Machine Learning para classificar vinhos com base em suas características físico-químicas.
