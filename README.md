@@ -168,20 +168,22 @@ Os resultados representam associações preditivas e não comprovam relações c
     │   └── regressao_logistica_vinhos.joblib
     ├── notebooks/
     │   └── TC_Fase2_Vitivinicola_EDMAR_SUELLEN_FIAP.ipynb
-    results/
-    ├── coeficientes_modelo.png
-    ├── coeficientes_modelo_final.csv
-    ├── comparacao_modelos.png
-    ├── comparacao_validacao_teste.csv
-    ├── curva_roc.png
-    ├── distribuicao_classes.png
-    ├── matriz_confusao.png
-    ├── matriz_correlacao.png
-    ├── metricas_modelo_final.csv
-    ├── previsoes_conjunto_teste.csv
-    ├── ranking_arvore_decisao.csv
-    ├── ranking_regressao_logistica.csv
-    └── resumo_projeto.json    
+    ├── presentation/
+    │   └── PPT.Tech_Challenge_Fase2_Vinhos_EDMAR_SUELLEN_ajustada.pptx
+    ├── results/
+    │   └── coeficientes_modelo.png
+    │   └── coeficientes_modelo_final.csv
+    │   └── comparacao_modelos.png
+    │   └── comparacao_validacao_teste.csv
+    │   └── curva_roc.png
+    │   └── distribuicao_classes.png
+    │   └── matriz_confusao.png
+    │   └── matriz_correlacao.png
+    │   └── metricas_modelo_final.csv
+    │   └── previsoes_conjunto_teste.csv
+    │   └── ranking_arvore_decisao.csv
+    │   └── ranking_regressao_logistica.csv
+    │   └── resumo_projeto.json    
     ├── src/
     │   └── prever_qualidade.py
     ├── .gitignore
